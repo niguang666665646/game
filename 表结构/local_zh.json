@@ -1,0 +1,47 @@
+{
+	"local": [{
+		"id": "ItemN_1001",
+		"type": "0",
+		"txt_ch": "下品灵石"
+	}, {
+		"id": "ItemN_1002",
+		"type": "0",
+		"txt_ch": "中品灵石"
+	}, {
+		"id": "ItemN_1003",
+		"type": "0",
+		"txt_ch": "上品灵石"
+	}, {
+		"id": "ItemN_2001",
+		"type": "0",
+		"txt_ch": "一品灵草"
+	}, {
+		"id": "ItemN_2002",
+		"type": "0",
+		"txt_ch": "二品灵草"
+	}, {
+		"id": "ItemN_2003",
+		"type": "0",
+		"txt_ch": "三品灵草"
+	}, {
+		"id": "ItemN_3001",
+		"type": "0",
+		"txt_ch": "加速石"
+	}, {
+		"id": "ItemN_3002",
+		"type": "0",
+		"txt_ch": "背包扩容石"
+	}, {
+		"id": "MSTN_10001",
+		"type": "1",
+		"txt_ch": "测试怪物1"
+	}, {
+		"id": "MSTN_10002",
+		"type": "1",
+		"txt_ch": "测试怪物2"
+	}, {
+		"id": "MSTN_10003",
+		"type": "1",
+		"txt_ch": "测试怪物3"
+	}]
+}
